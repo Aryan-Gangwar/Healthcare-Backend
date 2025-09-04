@@ -1,0 +1,21 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Healthcare API</title>
+  <link rel="stylesheet" href="{% static 'css/home.css' %}">
+</head>
+<body>
+  <div class="container">
+    <h1>Welcome to <span>Healthcare API</span></h1>
+    <p>Your one-stop solution for managing patients, doctors, and medical records.</p>
+
+    <div class="btn-group">
+      <a href="/api/docs/" class="btn">Explore API Docs</a>
+      <a href="/admin/" class="btn btn-alt">Go to Admin Panel</a>
+    </div>
+  </div>
+</body>
+</html>
