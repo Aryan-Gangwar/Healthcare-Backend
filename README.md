@@ -111,3 +111,27 @@ Swagger UI available at → http://127.0.0.1:8000/api/docs/
 
 🛡️ License
 This project is licensed under the MIT License.
+
+
+
+#Project Screenshots
+
+# Landing Page
+
+<img width="1917" height="1016" alt="Screenshot 2025-09-04 202500" src="https://github.com/user-attachments/assets/429773b1-f72a-4795-9eb9-52caf976b914" />
+
+# Admin Panel (Users & Authentication)
+
+<img width="1919" height="1014" alt="Screenshot 2025-09-04 202546" src="https://github.com/user-attachments/assets/c5846838-985f-4c24-97d4-bc010e40eb5c" />
+
+# Doctors Section in Admin Panel
+
+<img width="1919" height="1014" alt="Screenshot 2025-09-04 202600" src="https://github.com/user-attachments/assets/756f78b7-5ca5-4ba3-9754-d0bc703e1028" />
+
+# API Documentation
+
+<img width="1917" height="1019" alt="Screenshot 2025-09-04 202615" src="https://github.com/user-attachments/assets/d27fb194-0e1b-4d77-957e-892bd07fee23" />
+
+# Code Structure
+
+<img width="1919" height="1018" alt="Screenshot 2025-09-04 203313" src="https://github.com/user-attachments/assets/69f38409-33a1-4ab5-b516-7e8b1686fd18" />
